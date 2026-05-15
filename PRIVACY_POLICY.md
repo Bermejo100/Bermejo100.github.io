@@ -1,4 +1,4 @@
-# Privacy Policy for Tiktok Automation
+# Privacy Policy for Tiktok-Automation
 
 **Effective Date:** May 14, 2026
 
