@@ -1,2 +1,5 @@
 # Bermejo100.github.io
 Manage Profile for Develops
+<h1>Terminos y condiciones</h1>
+<a href="https://github.com/TU_USUARIO/Bermejo100.github.io/blob/main/TERMS_OF_SERVICE.md">Leer Terms of Service en GitHub</a>
+<a href="https://github.com/Bermejo100/Bermejo100.github.io/blob/main/PRIVACY_POLICY.md">Leer Privacy Policy en GitHub</a>
